@@ -8,10 +8,10 @@ import { MockedState } from './TaskList.stories';
 import { Provider } from 'react-redux';
 
 import {
- fireEvent,
- within,
- waitFor,
- waitForElementToBeRemoved
+  fireEvent,
+  within,
+  waitFor,
+  waitForElementToBeRemoved
 } from '@storybook/testing-library';
 
 export default {
@@ -49,7 +49,6 @@ Error.parameters = {
     ],
   },
 };
-
 
 Default.play = async ({ canvasElement }) => {
   const canvas = within(canvasElement);
