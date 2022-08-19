@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/salvatore/storybook/taskbox"
+	],
+	"file_history":
+	[
+		"/Users/salvatore/storybook/ui-kit/package.json",
+		"/Users/salvatore/storybook/angular-component-library/package-lock.json",
+		"/Users/salvatore/SLDS/design-system/ui/components/icons/base/example.jsx",
+		"/Users/salvatore/SLDS/design-system/ui/shared/svg-icon/index.jsx",
+		"/Users/salvatore/SLDS/design-system/ui/components/icons/base/_index.scss",
+		"/Users/salvatore/SLDS/design-system/ui/components/icons/docs.mdx",
+		"/Users/salvatore/SLDS/design-system/ui/components/buttons/with-icon/example.jsx",
+		"/Users/salvatore/SLDS/design-system/ui/components/buttons/base/example.jsx",
+		"/Users/salvatore/SLDS/design-system/ui/components/buttons/RELEASENOTES.md",
+		"/Users/salvatore/SLDS/design-system/package.json",
+		"/Users/salvatore/angular-component-library/package.json",
+		"/Users/salvatore/SLDS/design-system/.storybook/config.js",
+		"/Users/salvatore/SLDS/design-system/.storybook/addons.js",
+		"/Users/salvatore/slds/design-system/package.json",
+		"/Users/salvatore/slds/design-system/package-lock.json",
+		"/Users/salvatore/slds/design-system/node_modules/@salesforce-ux/icons/dist/action-icons-metadata.json",
+		"/Users/salvatore/slds/design-system/ui/components/icons/base/example.jsx",
+		"/Users/salvatore/slds/design-system/design-tokens/icon-paths.yml",
+		"/Users/salvatore/slds/design-system/ui/components/badges/__tests__/__snapshots__/index.spec.js.snap",
+		"/Users/salvatore/slds/design-system/ui/components/icons/RELEASENOTES.md",
+		"/Users/salvatore/slds/design-system/ui/components/icons/index.stories.js",
+		"/Users/salvatore/slds/design-system/ui/components/icons/action/example.jsx",
+		"/Users/salvatore/slds/design-system/ui/components/icons/action/_index.scss",
+		"/Users/salvatore/slds/design-system/ui/_design-tokens.scss",
+		"/Users/salvatore/Documents/GitHub/designtokens_converter/css/variables.css",
+		"/Users/salvatore/Documents/GitHub/designtokens_converter/tokens.json",
+		"/Users/salvatore/Downloads/designtokens_test/package-lock.json",
+		"/Users/salvatore/Downloads/designtokens_test/tokens/color/font.json",
+		"/Users/salvatore/Downloads/designtokens_test/tokens/color/base.json",
+		"/Users/salvatore/Downloads/designtokens_test/tokens/tokens.json",
+		"/Users/salvatore/Downloads/designtokens_test/tokens.json",
+		"/Users/salvatore/Downloads/designtokens_test/config.json",
+		"/Users/salvatore/Downloads/CDS - Core_designTokens_7-25-2022/colors.json"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "taskbox.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
