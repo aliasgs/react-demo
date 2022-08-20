@@ -16,7 +16,7 @@ body {
   font-style: 400;
   color: #333;
   font-size: 16px;
-  background-color: #26c6da;
+  background-color: var(--global-color-teal);
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
