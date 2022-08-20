@@ -1,9 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Sat, 20 Aug 2022 11:27:00 GMT
+ * Generated on Sat, 20 Aug 2022 13:39:40 GMT
  */
 
 :root {
-  --global-color-teal: #2CC5D2;
-  --global-color-gray: #dfdfdf;
+  --token-set-order-0: core;
+  --token-set-order-1: semantic;
+  --cds-semantic-color-primary: #2CC5D2;
+  --cds-semantic-color-neutral: #dedede;
+  --cds-core-color-red: #f90000;
+  --cds-core-color-teal: #2CC5D2;
+  --cds-core-color-gray: #dedede;
 }
