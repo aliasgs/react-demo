@@ -1,3 +1,5 @@
+@import url("tokens/variables.css");
+
 * {
   box-sizing: border-box;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -154,7 +156,7 @@ textarea {
   height: 0.85em;
   transform: translate3d(-50%, -50%, 0);
   background: transparent;
-  box-shadow: #2cc5d2 0 0 0 1px inset;
+  box-shadow: var(--global-color-teal) 0 0 0 1px inset;
   content: "";
   display: block;
 }
@@ -163,7 +165,7 @@ textarea {
   font-size: 16px;
   line-height: 24px;
   box-shadow: none;
-  color: #2cc5d2;
+  color: var(--global-color-teal);
   margin-top: -1px;
   font-family: "percolate";
   font-style: normal;
@@ -200,7 +202,7 @@ textarea {
 
 .input-symbol input:focus + [class^="icon-"],
 .input-symbol input:focus + [class*=" icon-"] {
-  color: #2cc5d2;
+  color: var(--global-color-teal);
 }
 
 .input-symbol [class^="icon-"],
@@ -312,7 +314,7 @@ textarea {
 }
 
 .pin-button:hover {
-  color: #2cc5d2;
+  color: var(--global-color-teal);
 }
 .pin-button:focus {
   outline-color: transparent;
@@ -323,7 +325,7 @@ textarea {
 }
 
 .list-item.TASK_PINNED .icon-star {
-  color: #2cc5d2;
+  color: var(--global-color-teal);
 }
 
 .list-item.TASK_ARCHIVED input[type="text"] {
@@ -408,7 +410,7 @@ textarea {
 .wrapper-message [class*=" icon-"] {
   font-size: 48px;
   line-height: 56px;
-  color: #2cc5d2;
+  color: var(--global-color-teal);
   display: block;
 }
 
