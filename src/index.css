@@ -16,7 +16,7 @@ body {
   font-style: 400;
   color: #333;
   font-size: 16px;
-  background-color: var(--global-color-teal);
+  background-color: var(--cds-semantic-color-primary);
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -156,7 +156,7 @@ textarea {
   height: 0.85em;
   transform: translate3d(-50%, -50%, 0);
   background: transparent;
-  box-shadow: var(--global-color-teal) 0 0 0 1px inset;
+  box-shadow: var(--cds-semantic-color-primary) 0 0 0 1px inset;
   content: "";
   display: block;
 }
@@ -165,7 +165,7 @@ textarea {
   font-size: 16px;
   line-height: 24px;
   box-shadow: none;
-  color: var(--global-color-teal);
+  color: var(--cds-semantic-color-primary);
   margin-top: -1px;
   font-family: "percolate";
   font-style: normal;
@@ -202,7 +202,7 @@ textarea {
 
 .input-symbol input:focus + [class^="icon-"],
 .input-symbol input:focus + [class*=" icon-"] {
-  color: var(--global-color-teal);
+  color: var(--cds-semantic-color-primary);
 }
 
 .input-symbol [class^="icon-"],
@@ -307,14 +307,14 @@ textarea {
   border: none;
   text-align: center;
   transition: all 200ms ease-in;
-  color: #eee;
+  color: var(--cds-semantic-color-neutral);
   font-size: 16px;
   line-height: 3rem;
   outline: none;
 }
 
 .pin-button:hover {
-  color: var(--global-color-teal);
+  color: var(--cds-semantic-color-primary);
 }
 .pin-button:focus {
   outline-color: transparent;
@@ -325,7 +325,7 @@ textarea {
 }
 
 .list-item.TASK_PINNED .icon-star {
-  color: var(--global-color-teal);
+  color: var(--cds-semantic-color-primary);
 }
 
 .list-item.TASK_ARCHIVED input[type="text"] {
@@ -367,7 +367,7 @@ textarea {
 .loading-item .glow-checkbox,
 .loading-item .glow-text span {
   animation: glow 1.5s ease-in-out infinite;
-  background: #eee;
+  background: var(--cds-semantic-color-neutral);
   color: transparent;
   cursor: progress;
   display: inline-block;
@@ -410,7 +410,7 @@ textarea {
 .wrapper-message [class*=" icon-"] {
   font-size: 48px;
   line-height: 56px;
-  color: var(--global-color-teal);
+  color: var(--cds-semantic-color-primary);
   display: block;
 }
 
