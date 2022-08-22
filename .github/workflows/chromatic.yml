@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: rm -f src/tokens/variables.css
-      - run: mv src/tokens/variables_new.css tokens/css/variables.css
+      - run: mv src/tokens/variables_new.css src/tokens/variables.css
   
   test:
     needs: rename
