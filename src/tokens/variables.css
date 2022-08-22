@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 Aug 2022 10:42:36 GMT
+ * Generated on Mon, 22 Aug 2022 11:14:33 GMT
  */
 
 :root {
   --token-set-order-0: core;
   --token-set-order-1: semantic;
-  --cds-semantic-color-primary: #f90000;
+  --cds-semantic-color-primary: #2CC5D2;
   --cds-semantic-color-neutral: #b5b5b5;
   --cds-core-color-red: #f90000;
   --cds-core-color-teal: #2CC5D2;
