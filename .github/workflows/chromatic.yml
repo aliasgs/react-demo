@@ -6,19 +6,8 @@ on: push
 
 # List of jobs
 jobs:
-  rename:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-      - run: rm -f src/tokens/variables.css
-      - run: mv src/tokens/variables_new.css src/tokens/variables.css
-      - run: rm -f src/tokens/variables_new.css
-
-  
-  test:
-    needs: rename
-    
+ 
+  test:    
     # Operating System
     runs-on: ubuntu-latest
     # Job steps
